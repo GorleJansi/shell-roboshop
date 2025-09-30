@@ -4,7 +4,6 @@ This repository contains **Bash scripts to automate the deployment of Roboshop m
 
 ---
 
-
 ## 📂 Repository Structure
 
 | File | Service / Purpose | Description |
