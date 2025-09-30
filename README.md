@@ -65,13 +65,16 @@ Here is a visual representation of the Roboshop microservices setup:
    cd roboshop-shell
 
 2. Make scripts executable:
+   ```bash
    chmod +x *.sh
 
 
 3. Run the main orchestrator (example for MongoDB services):
+   ```bash
    sudo ./roboshop.sh mongodb
 
 4. Check logs:
+   ```bash
    tail -f /var/log/shell-roboshop/<script_name>.log
 
 
